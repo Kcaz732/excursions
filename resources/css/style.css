@@ -2,4 +2,10 @@ body {
   font-family: Verdana;
   color: white;
   background-color: black;
+  text-align: center;
+}
+
+.cta {
+  color: aquamarine;
+  font-size: 16px;
 }
